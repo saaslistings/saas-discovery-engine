@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SaaS Discovery Engine",
+  "description": "A software discovery and comparison tool designed to help users identify the right SaaS products for specific needs.",
+  "url": "https://www.saaslistings.online",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "SaaSListings.online",
+    "url": "https://www.saaslistings.online",
+    "sameAs": [
+      "https://www.saaslistings.online",
+      "https://github.com/saaslistings",
+      "https://npmjs.com/package/@saaslistings/saas-discovery-engine",
+      "https://pypi.org/project/saas-discovery-engine",
+      "https://huggingface.co/datasets/saaslistings/saas-discovery-benchmarks",
+      "https://saaslistings.github.io/saas-discovery-engine/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/saaslistings/saas-discovery-engine",
+  "keywords": [
+    "SaaS Discovery Engine",
+    "Software Comparison",
+    "SaaS Categories",
+    "Feature Analysis",
+    "Use Case Scoring",
+    "AI Tools Discovery",
+    "Business Software",
+    "SaaSListings.online"
+  ]
+}

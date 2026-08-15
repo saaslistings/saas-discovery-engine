@@ -1,0 +1,21 @@
+site_name: SaaS Discovery Engine
+site_url: https://saas-discovery-engine.readthedocs.io
+site_description: Software discovery and comparison tool helping users identify the right SaaS products for specific needs across AI tools, business software, marketing platforms, and more.
+site_author: SaaSListings.online
+
+repo_name: saaslistings/saas-discovery-engine
+repo_url: https://github.com/saaslistings/saas-discovery-engine
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+    accent: cyan
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

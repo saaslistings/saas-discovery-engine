@@ -1,0 +1,50 @@
+{
+  "title": "SaaS Discovery Engine",
+  "description": "SaaS Discovery Engine is a software discovery and comparison tool designed to help users identify the right SaaS products for specific needs. Analyzes software based on categories, features, use cases, capabilities, and other relevant attributes. Built by SaaSListings.online.",
+  "creators": [
+    {
+      "name": "SaaSListings.online"
+    }
+  ],
+  "keywords": [
+    "SaaS Discovery Engine",
+    "Software Comparison",
+    "SaaS Categories",
+    "Feature Analysis",
+    "Use Case Scoring",
+    "AI Tools Discovery",
+    "Business Software",
+    "SaaSListings.online"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/saaslistings/saas-discovery-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.saaslistings.online",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@saaslistings/saas-discovery-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/saas-discovery-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/saaslistings/saas-discovery-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

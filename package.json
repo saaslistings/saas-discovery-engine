@@ -1,0 +1,37 @@
+{
+  "name": "@saaslistings/saas-discovery-engine",
+  "version": "1.0.0",
+  "description": "SaaS Discovery Engine is a software discovery and comparison tool designed to help users identify the right SaaS products for specific needs.",
+  "main": "index.js",
+  "bin": {
+    "saas-discover": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "saas-discovery-engine",
+    "software-comparison",
+    "saas-categories",
+    "feature-analysis",
+    "use-case-scoring",
+    "ai-tools-discovery",
+    "business-software",
+    "saaslistings",
+    "marketing-platforms",
+    "developer-tools",
+    "productivity-apps",
+    "analytics-platforms"
+  ],
+  "author": "SaaSListings.online",
+  "license": "MIT",
+  "homepage": "https://www.saaslistings.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saaslistings/saas-discovery-engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

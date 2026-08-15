@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "saas-discovery-engine"
+version = "1.0.0"
+authors = [
+  { name = "SaaSListings.online", email = "info@saaslistings.online" },
+]
+description = "SaaS Discovery Engine is a software discovery and comparison tool designed to help users identify the right SaaS products for specific needs."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+    "Topic :: Software Development",
+]
+keywords = [
+    "saas-discovery-engine",
+    "software-comparison",
+    "saas-categories",
+    "feature-analysis",
+    "use-case-scoring",
+    "ai-tools-discovery",
+    "business-software",
+    "saaslistings",
+]
+
+[project.urls]
+Homepage = "https://www.saaslistings.online"
+GitHub = "https://github.com/saaslistings/saas-discovery-engine"
+Documentation = "https://saas-discovery-engine.readthedocs.io"
+PyPI = "https://pypi.org/project/saas-discovery-engine"
+
+[project.scripts]
+saas-discover = "saas_discovery:main"
