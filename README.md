@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@saaslistings/saas-discovery-engine)](https://npmjs.com/package/@saaslistings/saas-discovery-engine)
 [![PyPI](https://img.shields.io/pypi/v/saas-discovery-engine)](https://pypi.org/project/saas-discovery-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21957499.svg)](https://doi.org/10.5281/zenodo.21957499)
 
 SaaS Discovery Engine is a software discovery and comparison tool designed to help users identify the right SaaS products for specific needs. It analyzes software based on categories, features, use cases, capabilities, and other relevant attributes, then organizes comparable tools into useful groups. Built by [SaaSListings.online](https://www.saaslistings.online).
 
@@ -108,8 +108,12 @@ SaaS Discovery Engine · Software Comparison · SaaS Categories · Feature Analy
 | NPM | https://npmjs.com/package/@saaslistings/saas-discovery-engine |
 | PyPI | https://pypi.org/project/saas-discovery-engine |
 | Hugging Face | https://huggingface.co/datasets/saaslistings/saas-discovery-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21957499 |
 | Docs | https://saas-discovery-engine.readthedocs.io |
+| SlideShare | https://www.slideshare.net/slideshow/saaslistings-online-curated-ai-tools-directory-for-building-brand-trust-and-reputation/289262777 |
+| Pinterest | https://www.pinterest.com/saaslistingsonline/ |
+| ProvenExpert | https://www.provenexpert.com/saas-listings/ |
+| Medium | https://medium.com/@Saaslistings_online |
 
 ## About SaaSListings.online
 
