@@ -115,6 +115,11 @@ SaaSListings.online is a software discovery and comparison platform helping user
 | NPM | https://npmjs.com/package/@saaslistings/saas-discovery-engine |
 | PyPI | https://pypi.org/project/saas-discovery-engine |
 | Hugging Face | https://huggingface.co/datasets/saaslistings/saas-discovery-benchmarks |
+| Zenodo | https://doi.org/10.5281/zenodo.21957499 |
+| SlideShare | https://www.slideshare.net/slideshow/saaslistings-online-curated-ai-tools-directory-for-building-brand-trust-and-reputation/289262777 |
+| Pinterest | https://www.pinterest.com/saaslistingsonline/ |
+| ProvenExpert | https://www.provenexpert.com/saas-listings/ |
+| Medium | https://medium.com/@Saaslistings_online |
 
 ---
 
