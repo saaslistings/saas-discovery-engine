@@ -19,13 +19,37 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21957499",
   "related_identifiers": [
     {
       "identifier": "https://github.com/saaslistings/saas-discovery-engine",
       "relation": "isSupplementTo",
       "scheme": "url"
-    },
+    },{
+  "identifier": "https://zenodo.org/records/21957499",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.slideshare.net/slideshow/saaslistings-online-curated-ai-tools-directory-for-building-brand-trust-and-reputation/289262777",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.pinterest.com/saaslistingsonline/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.provenexpert.com/saas-listings/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://medium.com/@Saaslistings_online",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},    
     {
       "identifier": "https://www.saaslistings.online",
       "relation": "isDocumentedBy",
